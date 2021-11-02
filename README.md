@@ -3,7 +3,8 @@
 Learn C and build your own programming language in 1000 lines of code!
 
 Implementation of a simple lisp dialect to learn c and some tricks.
-Almost of all content of this repository is part of the book Build Your Own Lisp free available on [Learn C * Build Your Own Lisp](https://buildyourownlisp.com/). Thanks so much Daniel Holden to make this amazing content freely available.
+Almost of all content of this repository is part of the book Build Your Own Lisp free available on [Learn C * Build Your Own Lisp](https://buildyourownlisp.com/). 
+Thanks so much [Daniel Holden](https://github.com/orangeduck) to make this amazing content freely available.
 
 All code on this repository was written on a Linux Debian Based system.
 You can install a C compiler using the following command:
@@ -24,6 +25,7 @@ And finally you can execute run:
 ./ouput_name
 ```
 
-[Hello World](hello_world.c)
-[Basic C](basics.c)
-[A Lispy REPL](prompt.c)
+# Contents
+* [Setup](https://buildyourownlisp.com/chapter2_installation) - Code: [Hello World](hello_world.c)
+* [Basics](https://buildyourownlisp.com/chapter3_basics) - Code: [Basic C](basics.c)
+* [An interactive prompt](https://buildyourownlisp.com/chapter4_interactive_prompt) - Code: [A Lispy REPL](prompt.c)
